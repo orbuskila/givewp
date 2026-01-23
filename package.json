@@ -103,7 +103,7 @@
         "jquery": "^3.6.0",
         "jquery-chosen": "latest",
         "jquery.payment": "latest",
-        "lodash": "^4.17.21",
+        "lodash": "^4.17.23",
         "magnific-popup": "latest",
         "moment": "^2.29.4",
         "prop-types": "^15.8.1",
